@@ -30,7 +30,7 @@
   "dependencies": {
     "q": "",
     "qx": "",
-    "orm": ""
+    "orm": "https://github.com/pmchung/node-orm2.git"
   },
   "readmeFilename": "README.md"
 }
